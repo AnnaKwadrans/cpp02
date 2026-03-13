@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 #include "Fixed.hpp"
 
@@ -16,8 +16,8 @@ int main( void )
     
     return 0;
 }
-*/
 
+/*
 #include <cmath>
 #include <iostream>
 #include <iomanip>
@@ -38,3 +38,4 @@ int main (void)
     
     return (0);
 }
+*/
